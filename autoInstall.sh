@@ -2,9 +2,9 @@
 ###########################################
 ################ Variables ################
 ###########################################
-HOSTNAME='fire'
+HOSTNAME='hp'
 USERNAME='omega'
-PACKAGES='xrandr vim git build-essential curl chromium-browser libssl-dev apt-file'
+PACKAGES='vim git build-essential curl chromium-browser libssl-dev apt-file'
 
 ###########################################
 ################# Updates #################
